@@ -1,10 +1,10 @@
-# flutter_binex_app
+# flutter-streaming-app
 
 Credit Design Exploration : [Binex Cryptocurrency Mobile App UI](https://dribbble.com/shots/16854499-Binex-Cryptocurrency-Mobile-App-UI)
 
 | Home Page     | Trading Page      |  
 | ------------- | -------------    | 
-| [![Screenshot-1647703219.png](https://i.postimg.cc/yNX6NHqr/Screenshot-1647703219.png)](https://postimg.cc/v1TwPCZW) | [![Screenshot-1647734338.png](https://i.postimg.cc/9XS2CMRQ/Screenshot-1647734338.png)](https://postimg.cc/BtxkCJBr)  |
+| [![Screenshot-1648043177.png](https://i.postimg.cc/xCGYTCS5/Screenshot-1648043177.png)](https://postimg.cc/MMGg9zHf) | [![Screenshot-1648042959.png](https://i.postimg.cc/rpCYDtKD/Screenshot-1648042959.png)](https://postimg.cc/06jC3jGv)  |
 
 Font use in this App Concept : [Roboto Font](https://fonts.google.com/specimen/Roboto?query=roboto) 
 
