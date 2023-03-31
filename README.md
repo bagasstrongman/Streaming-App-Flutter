@@ -8,7 +8,7 @@ Credit Design Exploration : [Binex Cryptocurrency Mobile App UI](https://dribbbl
 
 Font use in this App Concept : [Roboto Font](https://fonts.google.com/specimen/Roboto?query=roboto) 
 
-A new Flutter project.
+Developed by : Bagasstrongman
 
 ## Getting Started
 
